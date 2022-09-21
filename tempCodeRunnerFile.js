@@ -1,0 +1,1 @@
+note = require('./ChallengeNotes.txt')

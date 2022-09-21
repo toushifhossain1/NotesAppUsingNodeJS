@@ -1,0 +1,3 @@
+This is the notes file created by NodeJS codeThis is the appended message and the challenge is accepted
+ the last challenge was completed but the file was not on new line, therefore 
+ I am creating a new line here
